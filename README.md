@@ -1,6 +1,10 @@
 # DevMedia & Programadores Cariocas
 
-Bem-vindo ao repositório oficial do programa "DevMedia & Programadores Cariocas"! Este espaço foi criado para organizar e compartilhar os conhecimentos adquiridos ao longo do programa de formação em tecnologia, com foco no desenvolvimento FullStack. Abaixo estão as trilhas de aprendizado e suas respectivas tecnologias:
+Repositório oficial do programa "DevMedia & Programadores Cariocas"!
+
+Este espaço foi criado para organizar e compartilhar os conhecimentos adquiridos ao longo do programa de formação em tecnologia, com foco no desenvolvimento FullStack.
+
+Abaixo estão as trilhas de aprendizado e suas respectivas tecnologias:
 
 ## Trilhas de Carreira e Tecnologias
 
@@ -33,14 +37,6 @@ Bem-vindo ao repositório oficial do programa "DevMedia & Programadores Cariocas
 ### 6. Linguagem: Introdução ao Python
 **Tecnologias:**  
 - Linguagem Python
-
----
-
-## Como Usar Este Repositório
-
-- **Materiais de estudo:** Acesse os diretórios correspondentes às trilhas para encontrar conteúdo e exemplos práticos.
-- **Projetos:** Explore os projetos desenvolvidos durante o programa, organizados por trilhas e tecnologias.
-- **Colaboração:** Sugestões, correções e melhorias são sempre bem-vindas! Contribua com pull requests.
 
 ---
 
